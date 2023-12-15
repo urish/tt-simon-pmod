@@ -718,7 +718,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp ddd55490-3899-4f7d-968f-a83b4a412ec8))
     (pad "2" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 4 "Net-(D3-A)") (pinfunction "A") (pintype "passive") (tstamp 4cf8d512-022f-42ce-bbe4-f2b085e05f9f))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.wrl"
+    (model "${KIPRJMOD}/3dmodels/LED_D5.0mm-Blue.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1178,7 +1178,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp aacc60b9-350a-477d-9764-e671be9abf37))
     (pad "2" thru_hole circle (at 2.54 0 180) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 3 "Net-(D2-A)") (pinfunction "A") (pintype "passive") (tstamp 6caa0715-039b-4193-975b-1f68a86e965e))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.wrl"
+    (model "${KIPRJMOD}/3dmodels/LED_D5.0mm-Green.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2087,7 +2087,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp d6fa77d7-d929-4054-9827-9459196bf50b))
     (pad "2" thru_hole circle (at 2.54 0) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 5 "Net-(D4-A)") (pinfunction "A") (pintype "passive") (tstamp f13d5c17-31f4-4d9f-a504-58fd7fad3c2c))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.wrl"
+    (model "${KIPRJMOD}/3dmodels/LED_D5.0mm-Yellow.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2547,7 +2547,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 4a83993e-8a0d-4d7e-8cbc-242a6e148b49))
     (pad "2" thru_hole circle (at 2.54 0 180) (size 1.8 1.8) (drill 0.9) (layers "*.Cu" "*.Mask")
       (net 2 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp 8bd31f20-49d6-43ee-8884-612b5137ea32))
-    (model "${KICAD6_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.wrl"
+    (model "${KIPRJMOD}/3dmodels/LED_D5.0mm-Red.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
