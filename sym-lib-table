@@ -1,6 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "ttlib")(type "KiCad")(uri "${KIPRJMOD}/tinytapeout-kicad-libs/symbols/ttlib.kicad_sym")(options "")(descr ""))
-  (lib (name "TinyTapeout")(type "KiCad")(uri "${KIPRJMOD}/tinytapeout-kicad-libs/symbols/TinyTapeout.kicad_sym")(options "")(descr ""))
+  (lib (name "TinyTapeout")(type "KiCad")(uri "${KIPRJMOD}/kicad-tinytapeout-pmod-lib/TinyTapeout_PMOD.kicad_sym")(options "")(descr ""))
   (lib (name "LCSC")(type "KiCad")(uri "${KIPRJMOD}/lib/LCSC.kicad_sym")(options "")(descr ""))
 )
