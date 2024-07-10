@@ -4,6 +4,11 @@ A PCB for the Tiny Tapeout [Simon Says](https://github.com/urish/tt04-simon-game
 
 ![PCB Render](images/render.jpg)
 
+## Schematic (PDF)
+
+- [Board revision 2](https://github.com/urish/tt-simon-pmod/releases/download/rev-2.0/simon-says-pmod.pdf)
+- [Board revision 1](https://github.com/urish/tt-simon-pmod/releases/download/rev-1.0/simon-says-pmod.pdf)
+
 ## Hardware
 
 - 4 LEDs (Red, Green, Blue, and Yellow)
