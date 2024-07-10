@@ -1,4 +1,4 @@
-# Tiny Tapeout Simon Says PCB PMOD
+# Tiny Tapeout Simon Says PCB Pmod
 
 A PCB for the Tiny Tapeout [Simon Says](https://github.com/urish/tt04-simon-game) project.
 
@@ -10,4 +10,4 @@ A PCB for the Tiny Tapeout [Simon Says](https://github.com/urish/tt04-simon-game
 - 4 Push buttons (Red, Green, Blue, and Yellow)
 - 1 Piezo buzzer
 - 2 Digit seven segment display
-- 3 PMOD connectors
+- 3 Pmod connectors

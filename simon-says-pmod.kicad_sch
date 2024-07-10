@@ -5,8 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "TT Simon Says PMOD v2")
-    (company "Tiny Tapeout")
+    (title "TT Simon Says Pmod")
+    (date "2024-07-10")
+    (rev "2")
+    (company "Uri Shaked / Tiny Tapeout")
   )
 
   (lib_symbols
